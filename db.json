@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "users": [
-    { "id": 1, "name": "Vadim" },
-    { "id": 2, "name": "Valeriy" },
-    { "id": 3, "name": "Egor" }
+    { "id": 1, "name": "Vadim", "value": "Hello" },
+    { "id": 2, "name": "Valeriy", "value": "What" },
+    { "id": 3, "name": "Egor" , "value": "Ha-Ha!!" }
   ]
 }
